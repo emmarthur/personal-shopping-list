@@ -1,0 +1,6 @@
+web/node_modules/
+web/node_modules_trash/
+web/.next/
+web/out/
+.env*.local
+.DS_Store
